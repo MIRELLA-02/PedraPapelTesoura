@@ -14,17 +14,17 @@ Jogo interativo desenvolvido com **HTML, CSS e JavaScript**, baseado no clássic
 ## 🛠️ Tecnologias
 
 - HTML
-- CSS3
+- CSS
 - JavaScript
 
 ## 📂 Estrutura
 
 📦 projeto
- ┣ 📂 images
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 script.js
- ┗ 📜 README.md
+-  ┣ 📂 images
+ - ┣ 📜 index.html
+ - ┣ 📜 style.css
+ - ┣ 📜 script.js
+ - ┗ 📜 README.md
  
 --------
 
