@@ -48,5 +48,6 @@ Ou utilize o **Live Server** no VS Code.
 - Spock vence Pedra e Tesoura
 
 ---
+## 👨‍💻 Autora
 
-Projeto criado para prática de **HTML, CSS, JavaScript e lógica de programação**.
+Desenvolvido por **Mirella Brolezi**
